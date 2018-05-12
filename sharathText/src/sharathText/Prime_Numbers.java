@@ -9,8 +9,6 @@ public class Prime_Numbers {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter any number :");
 		no=s.nextInt();
-		if(no==1)
-			System.out.println("smallest prime number is 2");
 		for(i=2;i<no;i++){
 			if(no%i==0){
 				System.out.println("Not prime");

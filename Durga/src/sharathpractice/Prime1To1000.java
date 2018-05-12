@@ -1,9 +1,8 @@
-package different_programs;
+package sharathpractice;
 
 import java.util.Scanner;
 
-public class Prime_number {
-
+public class Prime1To1000 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i,j,b,con=0;	
@@ -22,8 +21,6 @@ public class Prime_number {
 			System.out.println(i);
 			con++;
 		}		
-		}
-		System.out.println("total no.of prime numbers is "+con);
-			}	}
-
-
+		
+		}}
+}

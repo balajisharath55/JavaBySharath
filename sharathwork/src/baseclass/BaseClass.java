@@ -32,6 +32,7 @@ public class BaseClass extends WebDriverCommonLib {
 		Logout logout=PageFactory.initElements(driver, Logout.class);
 		logout.logout();				
 	}
+	
 	@AfterClass
 	public void configAterClass() {
 		System.out.println("close Brower");

@@ -12,7 +12,6 @@ n=s.nextInt();
 int a[]=new int[n];
 System.out.println(" enter all the elements");
 for(int i=0;i<n;i++){
-	System.out.println(a[i]);
 	a[i]=s.nextInt();	
 }
 for(int j=0;j<n;j++){
