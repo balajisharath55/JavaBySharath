@@ -1,4 +1,4 @@
-package sharathpractice;
+package sharatprograms;
 
 public class IsPerfectNumber {
 	 

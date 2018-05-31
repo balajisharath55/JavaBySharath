@@ -13,7 +13,7 @@ public class WindowHandaling {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	/*	WebDriver driver=new FirefoxDriver();
+		WebDriver driver=new FirefoxDriver();
 		
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		// navigate to the url
@@ -25,11 +25,8 @@ public class WindowHandaling {
 		for(String guid : set){
 			driver.switchTo().window(guid);
 			System.out.println(driver.getTitle());
-		}*/
-		String st="123294";
-		int j=Integer.parseInt(st);
-		System.out.println(st+1);
-		System.out.println(j+1);
+		}
+	
 		
 		/*Iterator<String> it=set.iterator();
 		String parentit=it.next();

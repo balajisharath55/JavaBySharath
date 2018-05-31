@@ -1,4 +1,4 @@
-package sharathpractice;
+package sharatprograms;
 
 public class findstringduplicate { 
 public static void main(String[] args) { 

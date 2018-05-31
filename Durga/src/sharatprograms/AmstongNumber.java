@@ -1,11 +1,12 @@
-package sharathpractice;
+package sharatprograms;
 
 import java.util.Scanner;
 
-public class Polindrom {
+public class AmstongNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 		int number ,b,c,temp=0;
 
 		Scanner sca=new Scanner(System.in);
@@ -14,13 +15,15 @@ public class Polindrom {
 		c=number;
 		while(number>0){
 b=number%10;
-temp=temp*10+b;
+temp=temp+b*b*b;
 number=number/10;
 	}
 		if(temp==c) {
-			System.out.println("it is polindrom");
-		}else {
-			System.out.println("it is not polindrom");
+			System.out.println("it is Amstrong number");
 		}
+		else {
+			System.out.println("it is not Amstrong number");
+		}
+	}
 
-}}
+}

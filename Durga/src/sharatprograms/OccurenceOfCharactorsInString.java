@@ -1,4 +1,5 @@
-package sharathpractice;
+package sharatprograms;
+
 
 public class OccurenceOfCharactorsInString {
 

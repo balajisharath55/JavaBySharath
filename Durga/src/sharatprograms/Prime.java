@@ -1,4 +1,4 @@
-package sharathpractice;
+package sharatprograms;
 
 import java.util.Scanner;
 
