@@ -12,7 +12,8 @@ for(int i=0;i<rows;i++) {
 	for(int j=0;j<columns;j++){
 		sum[i][j]=firstMatrix[i][j]+secondmatrix[i][j];
 	}
-}System.out.println("sum of two matrices is: ");
+}
+System.out.println("sum of two matrices is: ");
 for(int[]row:sum) {
 	for(int column:row) {
 		System.out.print(column+" ");

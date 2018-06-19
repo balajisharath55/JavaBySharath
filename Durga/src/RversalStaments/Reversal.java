@@ -1,4 +1,4 @@
-package sharatprograms;
+package RversalStaments;
 
 import java.util.Scanner;
 

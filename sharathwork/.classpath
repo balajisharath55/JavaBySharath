@@ -39,5 +39,13 @@
 	<classpathentry kind="lib" path="C:/selenium 2018/selenium-2.53.1/libs/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="C:/selenium 2018/selenium-2.53.1/selenium-java-2.53.1.jar"/>
 	<classpathentry kind="lib" path="C:/selenium 2018/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/ATExcelReport.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/jfreechart.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/jfreechart-dependency-jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium 2018/report/AT Excel Report Jars/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
